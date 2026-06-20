@@ -59,7 +59,7 @@ This project is a simple E-Commerce Shopping Application built with modern mobil
 ## Technologies
 
 - React Native / Expo
-- NodeJS / Express
+- Node JS / Express
 - TypeScript
 - React Navigation or Expo Router
 - Axios
